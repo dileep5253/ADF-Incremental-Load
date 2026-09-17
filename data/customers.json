@@ -22,5 +22,36 @@
   "name": "Prakash",
   "city": "Mumbai",
   "amount": 12000
-}
+  }
+  {
+    "id": 1,
+    "name": "Mahesh",
+    "city": "Hyderabad",
+    "amount": 5000
+  },
+  {
+    "id": 2,
+    "name": "Ravi",
+    "city": "Bangalore",
+    "amount": 7000
+  },
+  {
+    "id": 3,
+    "name": "Suresh",
+    "city": "Chennai",
+    "amount": 9000
+  },
+  {
+    "id": 4,
+    "name": "Prakash",
+    "city": "Mumbai",
+    "amount": 12000
+  },
+  {
+    "id": 5,
+    "name": "Kiran",
+    "city": "Delhi",
+    "amount": 15000
+  }
+
 ]
