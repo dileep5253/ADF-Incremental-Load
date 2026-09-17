@@ -17,4 +17,10 @@
     "city": "Chennai",
     "amount": 9000
   }
+  {
+  "id": 4,
+  "name": "Prakash",
+  "city": "Mumbai",
+  "amount": 12000
+}
 ]
